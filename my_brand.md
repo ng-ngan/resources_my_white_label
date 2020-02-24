@@ -1,7 +1,8 @@
 ---
 CompanyName: "Ngan's Shop"
 Logo : "../images/gastby-icon.png"
-featuredImgUrl: "https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"
+featuredImgUrl: "https://github.com/ng-ngan/resources_my_white_label/blob/master/logo%20(1).png"
+
 ---
 #Who we are
 
