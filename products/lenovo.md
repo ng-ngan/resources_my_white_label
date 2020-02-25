@@ -1,5 +1,5 @@
 ---
-title: "Product 1"
+title: "Lenovo"
 featuredImgUrl: 
 ---
 #Description
